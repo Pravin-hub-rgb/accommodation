@@ -1,5 +1,5 @@
 # 1. HabitatHub - Universal Accommodation Platform
-**Version:** Alpha 0.1 | **Last Updated:** [Date]
+**Version:** Alpha 0.1 | **Last Updated:** [22-May-2025]
 
 ---
 ## 2. Team Members
