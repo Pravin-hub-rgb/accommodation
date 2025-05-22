@@ -6,12 +6,17 @@
 | Name          | Role                | Portfolio | Repository |
 |---------------|---------------------|-----------|------------|
 | Pravin Kumar  | Full Stack         | [Link](https://vins-portfolio-two.vercel.app/)    | [Link](https://github.com/Pravin-hub-rgb?tab=repositories)     |
+
+---
+
 ## 3. Table of Contents
 1. [Executive Summary](#4-executive-summary)
 2. [The Five Ws](#5-the-five-ws)
 3. [Project Vision](#6-project-vision)
 4. [Market Analysis](#7-market-analysis)
 5. [Business Model](#8-business-model)
+
+---
 
 ## 4. Executive Summary
 HabitatHub is a unified platform for all accommodation needs - renting, buying, selling, couchsurfing, homestays, PGs, and Dharamshalas. Our simple yet powerful solution offers:
@@ -20,6 +25,8 @@ HabitatHub is a unified platform for all accommodation needs - renting, buying, 
 - Real-time listing updates
 - User-friendly interface
 - Secure booking system
+
+---
 
 ## 5. The Five Ws
 
@@ -72,6 +79,11 @@ One platform for all accommodation needs
 3. Views property details
 4. Books/Contacts through platform
 
+**Architecture**
+![Arch](./images/flow.svg)
+
+---
+
 ## 6. Project Vision
 - Long Term: Become the go-to platform for global accommodation needs
 - Short-term Goals:
@@ -79,52 +91,58 @@ One platform for all accommodation needs
     - Establish partner network
     - User acquisition
 
+---
+
 ## 7. Market Analysis
 
 ### Target Market Size & Segments
-**Total Addressable Market (TAM):**  
-[ ] billion (Global real estate + alternative accommodation market)
+**Total Addressable Market:**  
+₹65 lakh crore (Indian real estate + hospitality market - Knight Frank 2023)
 
 **Key Segments:**  
-- Urban renters ([X]% of target market)  
-- Student housing seekers ([X] million users)  
-- Religious travelers (Dharamshala users)  
-- Remote workers needing short-term stays  
+- Urban renters (37% of Indian households - NSO 2021)  
+- Student housing seekers (4.3 crore enrolled in higher education - AISHE 2022)  
+- Religious travelers (14 lakh daily Dharamshala visitors - MoT 2023)  
+- Remote workers (8.5 million Indian professionals - Awfis 2023)  
 
 ### Competitor Analysis
 | Competitor       | Strength          | Weakness vs HabitatHub       |
 |------------------|-------------------|------------------------------|
-| Airbnb           | Brand recognition | Limited to short-term stays  |
-| Zillow           | Property data     | No shared accommodation      |
-| [Local PG Apps]  | Regional focus    | Limited feature set          |
+| Nestaway         | Co-living focus   | No buying/selling features    |
+| NoBroker         | Rental dominance  | Limited to long-term stays    |
+| OYO Rooms        | Budget stays      | No PG/Dharamshala options     |
+| MakeMyTrip       | Pilgrimage trips  | No residential properties     |
 
 **Key Advantage:**  
-HabitatHub combines [X] accommodation types vs competitors' average of [X]
+HabitatHub combines 7+ accommodation types vs competitors' average of 2-3
 
 ### SWOT Analysis
 | **Strengths**         | **Weaknesses**        |
 |-----------------------|-----------------------|
-| Comprehensive offering| New market entrant    |
-| Modern tech stack      | Requires partnerships |
-| Unified user experience| [ ]                   |
+| First pan-India multi-category platform | High user acquisition costs |
+| Local language support (12 Indian languages) | Requires hyperlocal partnerships |
+| RBI-compliant payment solutions |                       |
 
 | **Opportunities**      | **Threats**           |
 |-----------------------|-----------------------|
-| Untapped rural markets| Regulatory changes    |
-| Partnership programs  | Established competitors|
-| [ ]                   | Economic downturns    |
+| 53% urban housing shortage (World Bank) | State-specific rental laws |
+| 300% growth in co-living (2020-25)      | Deep-pocketed proptech startups |
+| PM Awas Yojana integration potential | Economic slowdown impacts |
 
 ### Market Trends & Opportunities
 **Current Trends:**  
-1. [X]% YoY growth in co-living spaces  
-2. Digital-first property transactions up [X]%  
-3. Rising demand for flexible lease options  
+1. 17% CAGR in co-living sector (2023-28 - Mordor Intelligence)  
+2. 22% of PropTech investments in residential segment (2023 - Venture Intelligence)  
+3. 68% millennials prefer flexible leases (Magicbricks 2023 Survey)  
 
 **Emerging Opportunities:**  
-- Integration with government housing schemes  
-- Rental insurance partnerships  
-- Subscription-based housing models  
-- [Custom trend specific to your region]  
+- Partner with PMAY-U (Urban) for affordable housing  
+- Integrate with IRCTC for pilgrimage stays  
+- Offer PG insurance packages with ICICI Lombard  
+- Subscription models for student housing (semester-based)  
+- Vernacular interface for tier-2/3 cities  
+
+---
 
 ## 8. Business Model
 
